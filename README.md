@@ -19,7 +19,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This project is created under ITCS 6156 - Machine Learning at UNC Charlotte:
 
-This Jupyter Notebook is used to showcase, how suspicious activities can be caught using a supervised learning algorithm in existing customer data under the compliance department of a bank or financial institution. The results show that False Positives can be reduced using Supervised Machine Learning algorithms because these algorithms have the potential to differentiate between regular and suspicious patterns of customer activity. 
+1. Finding, suspicious activity patterns in historical customer transactions under the compliance department of a bank. 
+2. Using Supervised Machine Learning algorithms to reduce False Positives. 
+3. Showcasing, Machine Learning algorithms potential to differentiate between regular ETL approach to detect suspicious patterns of customer activity. 
+
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
