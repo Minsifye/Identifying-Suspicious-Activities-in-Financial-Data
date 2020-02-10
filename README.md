@@ -6,9 +6,9 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [Licensing, Authors, and Acknowledgements](#licensing) 
-<!--3. [File Descriptions](#files)
-4. [Results](#results) -->
+3. [Results](#results)
+4. [Licensing, Authors, and Acknowledgements](#licensing) 
+
 
 
 ## Installation <a name="installation"></a>
@@ -24,6 +24,11 @@ This project is created under ITCS 6156 - Machine Learning at UNC Charlotte:
 3. Showcasing, Machine Learning algorithms potential to differentiate between regular ETL approach to detect suspicious patterns of customer activity. 
 
 
+## Results<a name="results"></a>
+
+Supervised learning algorithms can improve the overall system to identify suspicious activities in financial data. During this project, we created a model dataset with real scenarios and implemented machine learning models on it, which reduced the false positive rate. Any bank can add this additional functionality to its existing system and can reduce their compliance user’s workload by half. The approach shown in this project is easy to implement and can be added on top of ETL systems.
+
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the dataset here customer_transaction.csv, this dataset is created based on prior personal experience to mimic real world data. Feel free to use the code here as you would like! 
+You can find the dataset here customer_transaction.csv, this dataset is created based on my prior work experience to mimic real world data. Feel free to use the code here as you would like! 
