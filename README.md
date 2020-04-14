@@ -31,4 +31,4 @@ Supervised learning algorithms can improve the overall system to identify suspic
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the dataset here customer_transaction.csv, this dataset is created based on my prior work experience to mimic real world data. Feel free to use the code here as you would like! 
+You can find the dataset here customer_transaction.csv, this dataset is fabricated based on my prior work experience to simulate real transactional data. Feel free to use the code here as you would like! 
